@@ -15,6 +15,10 @@ body {
     height: auto;
 }
 
+.header {
+    background-color: #1F2937;
+}
+
 .header-image img {
     width: 50%;
     height: auto;
