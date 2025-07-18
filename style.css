@@ -43,3 +43,8 @@ body {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+.header-logo-links {
+    display: flex;
+    justify-content: space-between;
+}
