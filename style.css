@@ -44,6 +44,7 @@ body {
 .header-content {
     display: flex;
     align-items: center;
+    gap: 80px;
 }
 
 .header-content h1 {
