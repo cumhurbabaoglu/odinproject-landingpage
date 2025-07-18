@@ -10,3 +10,8 @@
     max-width: 60px;
     height: auto;
 }
+
+.header-image img {
+    width: 50%;
+    height: auto;
+}
