@@ -26,5 +26,5 @@ body {
 
 .header ul a {
     text-decoration: none;
-    /* add color white here */
+    color: white
 }
