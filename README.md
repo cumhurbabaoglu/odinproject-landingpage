@@ -11,4 +11,5 @@ To view the site locally:
 
 #Credits
 
-All images are from [Pexels](https://www.pexels.com/)
+City images are from [Pexels](https://www.pexels.com/)
+Logo is taken from [Freepik](https://www.freepik.com/)
