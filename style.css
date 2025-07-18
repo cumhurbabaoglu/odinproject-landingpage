@@ -28,3 +28,9 @@ body {
     text-decoration: none;
     color: #E5E7EB;
 }
+
+.header-content h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
