@@ -60,3 +60,10 @@ body {
     justify-content: space-between;
     align-items: center;
 }
+
+.header-info button {
+    background-color: #3882F6;
+    color: white;
+    padding: 6px 18px;
+    border-radius: 8px;
+}
