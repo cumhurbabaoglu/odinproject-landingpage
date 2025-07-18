@@ -36,6 +36,10 @@ body {
     color: #E5E7EB;
 }
 
+.header-content {
+    display: flex;
+}
+
 .header-content h1 {
     font-size: 48px;
     color: #F9FAF8;
