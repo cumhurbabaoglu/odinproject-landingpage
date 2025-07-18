@@ -11,5 +11,6 @@ To view the site locally:
 
 #Credits
 
-City images are from [Pexels](https://www.pexels.com/)
-Logo is taken from [Freepik](https://www.freepik.com/)
+1. City images are taken from [Pexels](https://www.pexels.com/)
+2. Logo is taken from [Freepik](https://www.freepik.com/)
+3. Tokyo description is taken from [Japan Tourism Official Website](https://www.japan.travel/en/au/)
