@@ -6,6 +6,10 @@
     margin: 0;
 }
 
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
 .logo {
     max-width: 60px;
     height: auto;
