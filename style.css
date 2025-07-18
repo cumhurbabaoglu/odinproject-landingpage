@@ -15,3 +15,7 @@
     width: 50%;
     height: auto;
 }
+
+.header ul a {
+    text-decoration: none;
+}
