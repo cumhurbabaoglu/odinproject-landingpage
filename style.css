@@ -24,6 +24,10 @@ body {
     height: auto;
 }
 
+.header ul {
+    list-style-type: none;
+}
+
 .header ul a {
     text-decoration: none;
     color: #E5E7EB;
