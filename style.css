@@ -111,3 +111,9 @@ body {
 .quote {
     background-color: #E5E7EB;
 }
+
+.quote-text {
+    font-style: italic;
+    font-size: 36px;
+    color: #1F2937;
+}
