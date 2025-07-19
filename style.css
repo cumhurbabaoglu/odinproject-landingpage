@@ -90,6 +90,7 @@ body {
 
 .boxes {
     display: flex;
+    gap: 48px;
 }
 
 .information-header {
