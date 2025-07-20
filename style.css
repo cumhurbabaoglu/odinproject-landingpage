@@ -148,3 +148,7 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.cta-text-heading {
+    font-size: 24px;
+}
