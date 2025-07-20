@@ -161,3 +161,7 @@ body {
     border-radius: 8px;
     padding: 6px 18px;
 }
+
+.footer-content {
+    color: white;
+}
