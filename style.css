@@ -166,6 +166,11 @@ body {
     padding: 6px 18px;
 }
 
+.cta-button button:hover, .header-info button:hover {
+    background-color: white;
+    color:  #3882F6;
+}
+
 .footer-content {
     color: white;
 }
