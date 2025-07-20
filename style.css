@@ -135,3 +135,7 @@ body {
 .cta-container {
     background-color: #3882F6;
 }
+
+.call-to-action {
+    height: 400px;
+}
