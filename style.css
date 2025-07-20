@@ -137,9 +137,9 @@ body {
     color: white;
     padding: 20px 80px;
     border-radius: 10px;
+    width: 50%;
     display: flex;
     align-items: center;
-
 }
 
 .call-to-action {
