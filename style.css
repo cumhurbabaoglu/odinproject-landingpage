@@ -16,7 +16,7 @@ body {
     height: auto;
 }
 
-.header {
+.header, .footer {
     background-color: #1F2937;
     padding: 10px 100px 40px 100px;
 }
