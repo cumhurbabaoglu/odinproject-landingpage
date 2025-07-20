@@ -140,9 +140,10 @@ body {
     color: white;
     padding: 40px 80px;
     border-radius: 10px;
-    width: 50%;
+    width: 70%;
     display: flex;
     align-items: center;
+    justify-content: space-evenly;
     gap: 100px;
 }
 
