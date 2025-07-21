@@ -79,6 +79,7 @@ body {
 .boxes div {
   width: 200px;
   text-align: center;
+  margin-bottom: 16px;
 }
 
 .information {
