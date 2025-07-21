@@ -9,6 +9,10 @@ To view the site locally:
 1. Clone the repo
 2. Open `index.html` in your browser
 
+#Future Improvements
+1. Responsive design
+2. Interactivity with JavaScript
+
 #Credits
 
 1. City images are taken from [Pexels](https://www.pexels.com/)
